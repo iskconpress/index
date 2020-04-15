@@ -1,3 +1,3 @@
 # index
 
-This is the repository for all of Srila Prabhupada's correspondence.
+Really, it is a digital index, paving the way for a new era!
