@@ -1,18 +1,7 @@
 ====== Sex life ======
 
-[[books:sb:1:1:1-3#purport|SB 1.1.1-3]]
+[[books:sb:1:1:1#purport|SB 1.1.1-3]]
 
-  * //brahmacārī// avoids, [[books:sb:6:1:13-14#purport|SB 6.1.13-14]]
-  * //brahmacārīs// abstain from, [[books:sb:3:12:42#purport|SB 3.12.42]]
-  * //brahmacārīs// prohibited from, [[books:sb:4:25:17#purport|SB 4.25.17]], [[books:sb:4:28:3#purport|SB 4.28.3]], [[books:sb:4:31:1#purport|SB 4.31.1]]
-  * //brahmacārīs// reject, [[books:sb:7:12:7#purport|SB 7.12.7]]
-  * //garbhādhāna// purifies, [[books:sb:7:11:13#purport|SB 7.11.13]]
-  * //karmīs// desire, [[books:sb:4:25:38#purport|SB 4.25.38]]
-  * //kāma-śāstra// cited on, [[books:sb:3:23:11#purport|SB 3.23.11]]
-  * //pravṛtti-mārga// based on, [[books:sb:4:25:39#purport|SB 4.25.39]]
-  * //rāsa-līlā// hearing cures, [[books:sb:1:18:31#purport|SB 1.18.31]]
-  * //sahajiyās// indulge in, [[books:sb:4:29:14#purport|SB 4.29.14]]
-  * //āśramas// forbidding, [[books:sb:7:14:1#purport|SB 7.14.1]]
   * among castes, [[books:sb:1:14:42#purport|SB 1.14.42]]
   * animal, compared with human, [[books:sb:2:3:18#purport|SB 2.3.18]], [[books:sb:3:10:26#purport|SB 3.10.26]]
   * animalistic, **[[books:sb:8:9:10#translation|SB 8.9.10]]**
@@ -31,15 +20,20 @@
   * as suffering, **[[books:sb:7:9:45#translation|SB 7.9.45]]**
   * as supreme material mellow, [[books:sb:4:25:18#purport|SB 4.25.18]]
   * as unnecessary, [[books:sb:7:14:1#purport|SB 7.14.1]]
+  * //āśramas// forbidding, [[books:sb:7:14:1#purport|SB 7.14.1]]
   * attachment to, **[[books:sb:9:19:17#translation|SB 9.19.17]]**
-    * as universal, **[[books:sb:3:31:36-38#translation|SB 3.31.36-38]]**
+    * as universal, **[[books:sb:3:31:36#translation|SB 3.31.36-38]]**
     * degradation via, [[books:sb:3:31:33#purport|SB 3.31.33]]
-    * detailed, **[[books:sb:3:31:32-42#translation|SB 3.31.32-42]]**
+    * detailed, **[[books:sb:3:31:32#translation|SB 3.31.32-42]]**
     * freedom from, [[books:sb:3:28:32#purport|SB 3.28.32]]
   * attachment to. //See:// Attachment
   * attractive force of, [[books:sb:6:18:30#purport|SB 6.18.30]]
   * bondage to, [[books:sb:7:7:46#purport|SB 7.7.46]]
-  * Brahmā attracted to, [[books:sb:3:12:28#purport|SB 3.12.28]], [[books:sb:3:12:32-33#purport|SB 3.12.32-33]]
+  * Brahmā attracted to, [[books:sb:3:12:28#purport|SB 3.12.28]], [[books:sb:3:12:32#purport|SB 3.12.32-33]]
+  * //brahmacārī// avoids, [[books:sb:6:1:13-14#purport|SB 6.1.13-14]]
+  * //brahmacārīs// abstain from, [[books:sb:3:12:42#purport|SB 3.12.42]]
+  * //brahmacārīs// prohibited from, [[books:sb:4:25:17#purport|SB 4.25.17]], [[books:sb:4:28:3#purport|SB 4.28.3]], [[books:sb:4:31:1#purport|SB 4.31.1]]
+  * //brahmacārīs// reject, [[books:sb:7:12:7#purport|SB 7.12.7]]
   * businesses for, [[books:sb:4:26:6#purport|SB 4.26.6]]
   * by religious principles, [[books:sb:3:14:38#purport|SB 3.14.38]]
   * by renunciant condemned, [[books:sb:3:14:21#purport|SB 3.14.21]]
@@ -49,12 +43,12 @@
   * compared to sucking blood, [[books:sb:2:3:19#purport|SB 2.3.19]]
   * conditioned souls seek, [[books:sb:3:20:18#purport|SB 3.20.18]]
   * Dakṣa’s facility for, **[[books:sb:6:4:52#translation|SB 6.4.52]]**
-  * dangers in, [[books:sb:3:12:28-29#purport|SB 3.12.28-29]], [[books:sb:3:12:32-33#purport|SB 3.12.32-33]]
+  * dangers in, [[books:sb:3:12:28#purport|SB 3.12.28-29]], [[books:sb:3:12:32#purport|SB 3.12.32-33]]
   * death caused via, **[[books:sb:3:26:57#translation|SB 3.26.57]]**
   * demigods attracted to, [[books:sb:4:24:11-12#purport|SB 4.24.11-12]]
   * demigods free of, [[books:sb:3:20:23#purport|SB 3.20.23]], [[books:sb:3:20:31#purport|SB 3.20.31]]
   * demigods morose after, [[books:sb:4:6:25#purport|SB 4.6.25]]
-  * demons pursue, [[books:sb:3:20:23#purport|SB 3.20.23]], [[books:sb:3:20:29#purport|SB 3.20.29]], [[books:sb:3:20:31#purport|SB 3.20.31]], [[books:sb:3:20:34-35#purport|SB 3.20.34-35]], [[books:sb:3:20:36#purport|SB 3.20.36]]
+  * demons pursue, [[books:sb:3:20:23#purport|SB 3.20.23]], [[books:sb:3:20:29#purport|SB 3.20.29]], [[books:sb:3:20:31#purport|SB 3.20.31]], [[books:sb:3:20:34#purport|SB 3.20.34-35]], [[books:sb:3:20:36#purport|SB 3.20.36]]
   * demons slave for, [[books:sb:7:7:46#purport|SB 7.7.46]]
   * desire for, by nice atmosphere, **[[books:sb:4:6:30#translation|SB 4.6.30]]**
   * desire for. //See:// Sex desire
@@ -62,7 +56,7 @@
   * devotional service superior to, [[books:sb:4:22:39#purport|SB 4.22.39]], [[books:sb:4:23:29#purport|SB 4.23.29]]
   * discharges during, [[books:sb:3:23:48#purport|SB 3.23.48]]
   * disease from, [[books:sb:4:28:1#purport|SB 4.28.1]]
-  * Diti desired, **[[books:sb:3:14:8-16#translation|SB 3.14.8-16]]**, **[[books:sb:3:14:30-31#translation|SB 3.14.30-31]]**
+  * Diti desired, **[[books:sb:3:14:8#translation|SB 3.14.8-16]]**, **[[books:sb:3:14:30#translation|SB 3.14.30-31]]**
   * duality epitomized by, **[[books:sb:7:12:10#translation|SB 7.12.10]]**
   * epitomized by ass, [[books:sb:2:3:19#purport|SB 2.3.19]]
   * false //guru// preaches, [[books:sb:8:24:51#purport|SB 8.24.51]]
@@ -79,6 +73,7 @@
   * freedom for, as basic flaw today, [[books:sb:4:31:1#purport|SB 4.31.1]]
   * freedom from, [[books:sb:2:2:12#purport|SB 2.2.12]], [[books:sb:2:6:20#purport|SB 2.6.20]]
   * gender of child &, [[books:sb:3:23:48#purport|SB 3.23.48]]
+  * //garbhādhāna// purifies, [[books:sb:7:11:13#purport|SB 7.11.13]]
   * goats enchanted by, [[books:sb:9:19:5-6#purport|SB 9.19.5-6]], [[books:sb:9:19:10#purport|SB 9.19.10]]
   * good qualities control, [[books:sb:7:11:13#purport|SB 7.11.13]]
   * homosexual, [[books:sb:3:20:26#purport|SB 3.20.26]]
@@ -102,7 +97,7 @@
   * impregnation from, [[books:sb:3:3:17#purport|SB 3.3.17]], [[books:sb:3:5:26#purport|SB 3.5.26]]
   * in //varṇāśrama-dharma,// [[books:sb:4:25:39#purport|SB 4.25.39]]
   * in atheist’s Creation concept, [[books:sb:9:24:58#purport|SB 9.24.58]]
-  * in dreams, [[books:sb:4:29:72-73#purport|SB 4.29.72-73]]
+  * in dreams, [[books:sb:4:29:72#purport|SB 4.29.72-73]]
   * in Kṛṣṇa consciousness movement, [[books:sb:9:20:16#purport|SB 9.20.16]]
   * in marriage, [[books:sb:7:13:26#purport|SB 7.13.26]]
   * in material world compared with spiritual world, [[books:sb:4:6:30#purport|SB 4.6.30]]
@@ -113,6 +108,8 @@
   * incest, [[books:sb:4:27:30#purport|SB 4.27.30]]
   * irregular, as prostitution, [[books:sb:3:14:30#purport|SB 3.14.30]], [[books:sb:3:14:33#purport|SB 3.14.33]]
   * Kali-yuga marriage based on, [[books:sb:3:21:15#purport|SB 3.21.15]], [[books:sb:3:24:15#purport|SB 3.24.15]]
+  * //kāma-śāstra// cited on, [[books:sb:3:23:11#purport|SB 3.23.11]]
+  * //karmīs// desire, [[books:sb:4:25:38#purport|SB 4.25.38]]
   * Kaśyapa & Aditi’s union unlike, [[books:sb:8:17:23#purport|SB 8.17.23]]
   * knowledge & detachment vs., [[books:sb:3:5:42#purport|SB 3.5.42]]
   * knowledge about, [[books:sb:4:25:38#purport|SB 4.25.38]]
@@ -144,7 +141,7 @@
   * of demigod women, **[[books:sb:4:6:25#translation|SB 4.6.25]]**
   * of fish agitated Saubhari Ṛṣi, **[[books:sb:9:6:39-40#translation|SB 9.6.39-40]]**, **[[books:sb:9:6:49#translation|SB 9.6.49]]**, **[[books:sb:9:6:50#translation|SB 9.6.50]]**, [[books:sb:9:6:51#purport|SB 9.6.51]], **[[books:sb:9:6:52#translation|SB 9.6.52]]**
   * of hogs & humans, [[books:sb:3:7:17#purport|SB 3.7.17]]
-  * of Lord transcendental, **[[books:sb:3:3:22-23#translation|SB 3.3.22-23]]**
+  * of Lord transcendental, **[[books:sb:3:3:22#translation|SB 3.3.22-23]]**
   * of Purūravā & Urvaśī, **[[books:sb:9:14:24#translation|SB 9.14.24]]**, **[[books:sb:9:14:25#translation|SB 9.14.25]]**, **[[books:sb:9:14:41#translation|SB 9.14.41]]**
   * of Yayāti & Śarmiṣṭhā, **[[books:sb:9:18:31#translation|SB 9.18.31]]**, **[[books:sb:9:18:32#translation|SB 9.18.32]]**
   * old age results from, [[books:sb:4:27:21#purport|SB 4.27.21]]
@@ -156,12 +153,14 @@
   * pleasure of, purpose of, [[books:sb:2:6:8#purport|SB 2.6.8]]
   * polygamy &, [[books:sb:4:26:6#purport|SB 4.26.6]]
   * Prajāpatis as worshiped for, **[[books:sb:2:3:2-7#translation|SB 2.3.2-7]]**
+  * //pravṛtti-mārga// based on, [[books:sb:4:25:39#purport|SB 4.25.39]]
   * preparation for, [[books:sb:3:14:38#purport|SB 3.14.38]]
   * procreation via, [[books:sb:4:11:15#purport|SB 4.11.15]]
   * prostitution, [[books:sb:4:26:17#purport|SB 4.26.17]]
   * purified, population via, [[books:sb:3:21:1#purport|SB 3.21.1]]
   * purpose of, [[books:sb:3:13:11#purport|SB 3.13.11]]
   * rape, [[books:sb:4:25:41#purport|SB 4.25.41]]
+  * //rāsa-līlā// hearing cures, [[books:sb:1:18:31#purport|SB 1.18.31]]
   * religious principles for, [[books:sb:4:22:53#purport|SB 4.22.53]]
   * religious principles regulate, [[books:sb:7:13:26#purport|SB 7.13.26]]
   * religious, [[books:sb:9:18:32#purport|SB 9.18.32]], [[books:sb:9:20:16#purport|SB 9.20.16]]
@@ -170,6 +169,7 @@
   * restricted for humans, [[books:sb:4:27:5#purport|SB 4.27.5]]
   * restricted for spiritual life, [[books:sb:6:4:52#purport|SB 6.4.52]]
   * restrictions for, [[books:sb:3:28:4#purport|SB 3.28.4]], [[books:sb:3:30:28#purport|SB 3.30.28]], [[books:sb:3:33:26#purport|SB 3.33.26]]
+  * //sahajiyās// indulge in, [[books:sb:4:29:14#purport|SB 4.29.14]]
   * Saubhari Ṛṣi desired, **[[books:sb:9:6:39-40#translation|SB 9.6.39-40]]**, **[[books:sb:9:6:52#translation|SB 9.6.52]]**
   * Saudāsa gave up, **[[books:sb:9:9:38#translation|SB 9.9.38]]**
   * science of, [[books:sb:4:25:38#purport|SB 4.25.38]]
@@ -196,7 +196,7 @@
   * wife takes //prasāda// before, [[books:sb:4:13:38#purport|SB 4.13.38]]
   * world revolves around, [[books:sb:7:7:46#purport|SB 7.7.46]]
   * Yayāti renounced, **[[books:sb:9:19:1#translation|SB 9.19.1]]**, **[[books:sb:9:19:19#translation|SB 9.19.19]]**
-  * Śiva & wife in, **[[books:sb:9:1:30-31#translation|SB 9.1.30-31]]**
+  * Śiva & wife in, **[[books:sb:9:1:30#translation|SB 9.1.30-31]]**
   * ”//yoga//” &, [[books:sb:3:15:45#purport|SB 3.15.45]]
   * ”//yogīs//” encourage, [[books:sb:3:20:35#purport|SB 3.20.35]]
 
