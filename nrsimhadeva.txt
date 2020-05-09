@@ -1,4 +1,4 @@
-{{description>advent of, cause of; anger of; appeared from pillar; as absolute & transcendental; as animal incarnation; as mixed incarnation; as predominating Deity of earthly varṣa; as source of power; Brahmā prayed to; Brahmā’s promise preserved by; Cāraṇas prayed to; chanting His name recommended; demigods feared, honored; demons surrendered to; devotees frightened by; as devotee’s shelter; Earth convulsed by; elephants terrified by; emergence of, from pillar; fearlessness via shelter from; flower shower for; freedom from material desires via prayers to; Gandharvas honored; Gandharvas prayed to; Hare Kṛṣṇa movement protected by; Hari-varṣa residence of; Hiraṇyakaśipu &; Hiraṇyakaśipu killed by; Indra prayed to; kills Hiraṇyakaśipu, Hiraṇyakaśipu’s soldiers; Kimpuruṣas prayed to; Kinnaras prayed to; as Kṛṣṇa; as Kṛṣṇa’s expansion; laughter of; liberation by glorifying; Manus prayed to; mission of; Nāgas prayed to; nails & teeth of, compared to thunderbolts; Nṛsiṁha prayer recommended; Nyagrodha; Nyāsa-mantra, Pitās prayed to; power of; Prahlāda devoted to, offered benedictions by, unagitated by; Prahlāda &; Prahlāda prayed to; Prahlāda protected by; Prajāpatis prayed to; protection by; protects preachers; quoted on Prahlāda’s good fortune; religious principles recovered by; sacrifices rescued by; saints prayed to; seen differently by devotees & demons; Siddhas prayed to; Śiva prayed to; three-eyed; Vaitālikas prayed to; Vidyādharas prayed to; Viṣṇu’s associates prayed to; visage of; Yakṣas prayed to.}}
+{{description>advent of, cause of; anger of; appeared from pillar; as absolute & transcendental; as animal incarnation; as devotee’s shelter; as Kṛṣṇa; as Kṛṣṇa’s expansion; as mixed incarnation; as predominating Deity of earthly varṣa; as source of power; Brahmā prayed to; Brahmā’s promise preserved by; chanting His name recommended; Cāraṇas prayed to; demigods feared, honored; demons surrendered to; devotees frightened by; Earth convulsed by; elephants terrified by; emergence of, from pillar; fearlessness via shelter from; flower shower for; freedom from material desires via prayers to; Gandharvas honored; Gandharvas prayed to; Hare Kṛṣṇa movement protected by; Hari-varṣa residence of; Hiraṇyakaśipu &; Hiraṇyakaśipu killed by; Indra prayed to; kills Hiraṇyakaśipu, Hiraṇyakaśipu’s soldiers; Kimpuruṣas prayed to; Kinnaras prayed to; laughter of; liberation by glorifying; Manus prayed to; mission of; nails & teeth of, compared to thunderbolts; Nyagrodha; Nyāsa-mantra, Pitās prayed to; Nāgas prayed to; Nṛsiṁha prayer recommended; power of; Prahlāda &; Prahlāda devoted to, offered benedictions by, unagitated by; Prahlāda prayed to; Prahlāda protected by; Prajāpatis prayed to; protection by; protects preachers; quoted on Prahlāda’s good fortune; religious principles recovered by; sacrifices rescued by; saints prayed to; seen differently by devotees & demons; Siddhas prayed to; Śiva prayed to; three-eyed; Vaitālikas prayed to; Vidyādharas prayed to; visage of; Viṣṇu’s associates prayed to; Yakṣas prayed to.}}
 
 ====== Nṛsiṁhadeva, Lord ======
 
@@ -16,6 +16,8 @@ N107, [[books:sb:10:2:26#purport|SB 10.2.26]], [[books:sb:10:3:21#purport|SB 10.
   * appeared from pillar, [[books:sb:3:24:6#purport|SB 3.24.6]]
   * as absolute & transcendental, [[books:sb:7:8:24#purport|SB 7.8.24]]
   * as animal incarnation, **[[books:sb:6:9:26-27#translation|SB 6.9.26-27]]**
+  * as Kṛṣṇa, [[books:sb:7:4:36#purport|SB 7.4.36]]
+  * as Kṛṣṇa’s expansion, [[books:sb:7:10:42#purport|SB 7.10.42]]
   * as mixed incarnation, **[[books:sb:6:9:40#translation|SB 6.9.40]]**
   * as predominating Deity of earthly //varṣa,// [[books:sb:5:17:14#purport|SB 5.17.14]]
   * as source of power, **[[books:sb:5:18:8#translation|SB 5.18.8]]**
@@ -39,7 +41,8 @@ N107, [[books:sb:10:2:26#purport|SB 10.2.26]], [[books:sb:10:3:21#purport|SB 10.
   * Gandharvas prayed to, **[[books:sb:7:8:50#translation|SB 7.8.50]]**
   * Hare Kṛṣṇa movement protected by, [[books:sb:7:8:51#purport|SB 7.8.51]]
   * Hari-varṣa residence of, **[[books:sb:5:18:7#translation|SB 5.18.7]]**
-  * Hiraṇyakaśipu &. //See:// Hiraṇyakaśipu, Nṛsiṁhadeva & ...
+  * Hiraṇyakaśipu &
+    * //See:// Hiraṇyakaśipu, Nṛsiṁhadeva & ...
   * Hiraṇyakaśipu killed by, **[[books:sb:1:3:18#translation|SB 1.3.18]]**, [[books:sb:1:3:28#purport|SB 1.3.28]], [[books:sb:1:15:16#purport|SB 1.15.16]]; [[books:sb:5:18:7#purport|SB 5.18.7]]; [[books:sb:8:5:31#purport|SB 8.5.31]], [[books:sb:8:8:21#purport|SB 8.8.21]]
   * Indra prayed to, **[[books:sb:7:8:42#translation|SB 7.8.42]]**
   * kills
@@ -47,8 +50,6 @@ N107, [[books:sb:10:2:26#purport|SB 10.2.26]], [[books:sb:10:3:21#purport|SB 10.
     * Hiraṇyakaśipu’s soldiers, **[[books:sb:7:8:31#translation|SB 7.8.31]]**
   * Kimpuruṣas prayed to, **[[books:sb:7:8:53#translation|SB 7.8.53]]**
   * Kinnaras prayed to, **[[books:sb:7:8:55#translation|SB 7.8.55]]**
-  * as Kṛṣṇa, [[books:sb:7:4:36#purport|SB 7.4.36]]
-  * as Kṛṣṇa’s expansion, [[books:sb:7:10:42#purport|SB 7.10.42]]
   * laughter of, **[[books:sb:7:8:28#translation|SB 7.8.28]]**
   * liberation by glorifying, [[books:sb:7:10:14#purport|SB 7.10.14]], **[[books:sb:7:10:47#translation|SB 7.10.47]]**
   * Manus prayed to, **[[books:sb:7:8:48#translation|SB 7.8.48]]**
@@ -63,11 +64,11 @@ N107, [[books:sb:10:2:26#purport|SB 10.2.26]], [[books:sb:10:3:21#purport|SB 10.
   * Prahlāda
     * devoted to, **[[books:sb:5:18:7#translation|SB 5.18.7]]**
     * offered benedictions by, **[[books:sb:5:24:25#translation|SB 5.24.25]]**
+    * prayed to, [[books:sb:1:19:20#purport|SB 1.19.20]]
+    * protected by, **[[books:sb:1:15:16#translation|SB 1.15.16]]**
     * unagitated by, [[books:sb:5:17:20#purport|SB 5.17.20]]
   * Prahlāda &, [[books:sb:3:20:43#purport|SB 3.20.43]]
-  * Prahlāda &. //See:// Prahlāda Mahārāja, Nṛsiṁhadeva & ...
-  * Prahlāda prayed to, [[books:sb:1:19:20#purport|SB 1.19.20]]
-  * Prahlāda protected by, **[[books:sb:1:15:16#translation|SB 1.15.16]]**
+    * //See:// Prahlāda Mahārāja, Nṛsiṁhadeva & ...
   * Prajāpatis prayed to, **[[books:sb:7:8:49#translation|SB 7.8.49]]**
   * protection by, **[[books:sb:6:8:14#translation|SB 6.8.14]]**, **[[books:sb:6:8:34#translation|SB 6.8.34]]**
   * protects preachers, [[books:sb:7:8:51#purport|SB 7.8.51]]
@@ -81,6 +82,6 @@ N107, [[books:sb:10:2:26#purport|SB 10.2.26]], [[books:sb:10:3:21#purport|SB 10.
   * three-eyed, **[[books:sb:6:9:40#translation|SB 6.9.40]]**
   * Vaitālikas prayed to, **[[books:sb:7:8:54#translation|SB 7.8.54]]**
   * Vidyādharas prayed to, **[[books:sb:7:8:46#translation|SB 7.8.46]]**
-  * Viṣṇu’s associates prayed to, **[[books:sb:7:8:56#translation|SB 7.8.56]]**
   * visage of, **[[books:sb:7:8:19-22#translation|SB 7.8.19-22]]**, **[[books:sb:7:8:30#translation|SB 7.8.30]]**, **[[books:sb:7:8:32#translation|SB 7.8.32]]**, **[[books:sb:7:8:34#translation|SB 7.8.34]]**, **[[books:sb:7:9:15#translation|SB 7.9.15]]**
+  * Viṣṇu’s associates prayed to, **[[books:sb:7:8:56#translation|SB 7.8.56]]**
   * Yakṣas prayed to, **[[books:sb:7:8:52#translation|SB 7.8.52]]**
