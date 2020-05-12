@@ -9,7 +9,7 @@
   * as self-defeating, **[[books:sb:8:6:24#translation|SB 8.6.24]]**
   * at blasphemy, [[books:sb:4:4:10#purport|SB 4.4.10]]
   * at insults to Lord or devotee, [[books:sb:4:4:10#purport|SB 4.4.10]]
-  * bad effect of, [[books:sb:4:2:16#purport|SB 4.2.16]], [[books:sb:4:2:19-20#purport|SB 4.2.19-20]]
+  * bad effect of, [[books:sb:4:2:16#purport|SB 4.2.16]], [[books:sb:4:2:19#purport|SB 4.2.19-20]]
   * by demons toward devotees, [[books:sb:7:8:16#purport|SB 7.8.16]]
   * by devotees, [[books:sb:5:10:8#purport|SB 5.10.8]]
   * by Rahūgaṇa, **[[books:sb:5:10:5#translation|SB 5.10.5]]**, **[[books:sb:5:10:7#translation|SB 5.10.7]]**
@@ -23,7 +23,7 @@
   * detrimental vs. devotional, [[books:sb:4:11:31#purport|SB 4.11.31]]
   * devotees devoid of, [[books:sb:6:4:5#purport|SB 6.4.5]]
   * devotees free of, [[books:sb:7:1:28-29#purport|SB 7.1.28-29]]
-  * effect of, [[books:sb:4:2:16#purport|SB 4.2.16]], [[books:sb:4:2:19-20#purport|SB 4.2.19-20]]
+  * effect of, [[books:sb:4:2:16#purport|SB 4.2.16]], [[books:sb:4:2:19#purport|SB 4.2.19-20]]
   * freedom from, [[books:sb:1:9:27#purport|SB 1.9.27]]
   * freedom from, [[books:sb:5:10:23#purport|SB 5.10.23]]
   * ignorance causes, **[[books:sb:8:19:13#translation|SB 8.19.13]]**
@@ -46,15 +46,15 @@
   * of Bhīma, **[[books:sb:3:1:37#translation|SB 3.1.37]]**
   * of Brahmā, result of, **[[books:sb:3:12:6#translation|SB 3.12.6]]**
   * of Dakṣa at Śiva, **[[books:sb:4:2:8#translation|SB 4.2.8]]**, [[books:sb:4:3:16#purport|SB 4.3.16]], [[books:sb:4:3:21#purport|SB 4.3.21]]
-  * of demons toward Vāmana, **[[books:sb:8:21:9-13#translation|SB 8.21.9-13]]**
-  * of Devayānī & Śarmiṣṭhā, **[[books:sb:9:18:10-17#translation|SB 9.18.10-17]]**, **[[books:sb:9:18:34#translation|SB 9.18.34]]**
+  * of demons toward Vāmana, **[[books:sb:8:21:9#translation|SB 8.21.9-13]]**
+  * of Devayānī & Śarmiṣṭhā, **[[books:sb:9:18:10#translation|SB 9.18.10-17]]**, **[[books:sb:9:18:34#translation|SB 9.18.34]]**
   * of Dhruva at insult, **[[books:sb:4:8:14#translation|SB 4.8.14]]**
   * of Diti’s demoniac sons, [[books:sb:3:17:16#purport|SB 3.17.16]]
-  * of Durvāsā toward Ambarīṣa, **[[books:sb:9:4:43-46#translation|SB 9.4.43-46]]**
+  * of Durvāsā toward Ambarīṣa, **[[books:sb:9:4:43#translation|SB 9.4.43-46]]**
   * of Duryodhana, **[[books:sb:3:1:14#translation|SB 3.1.14]]**
   * of fool at good instructions, [[books:sb:10:4:5#purport|SB 10.4.5]]
   * of Hiraṇyakaśipu toward Viṣṇu, **[[books:sb:8:19:7#translation|SB 8.19.7]]**, [[books:sb:8:19:11#purport|SB 8.19.11]], **[[books:sb:8:19:13#translation|SB 8.19.13]]**
-  * of Hiraṇyakaśipu, **[[books:sb:7:2:1-3#translation|SB 7.2.1-3]]**, [[books:sb:7:2:18-19#purport|SB 7.2.18-19]], **[[books:sb:7:5:25#translation|SB 7.5.25]]**, [[books:sb:7:5:31#purport|SB 7.5.31]], **[[books:sb:7:5:33-34#translation|SB 7.5.33-34]]**, **[[books:sb:7:8:14#translation|SB 7.8.14]]**
+  * of Hiraṇyakaśipu, **[[books:sb:7:2:#translation|SB 7.2.1-3]]**, [[books:sb:7:2:18-19#purport|SB 7.2.18-19]], **[[books:sb:7:5:25#translation|SB 7.5.25]]**, [[books:sb:7:5:31#purport|SB 7.5.31]], **[[books:sb:7:5:33#translation|SB 7.5.33-34]]**, **[[books:sb:7:8:14#translation|SB 7.8.14]]**
   * of Ikṣvāku toward Vikukṣi, **[[books:sb:9:6:9#translation|SB 9.6.9]]**
   * of Indra toward Cyavana, **[[books:sb:9:3:25#translation|SB 9.3.25]]**
   * of Lord & living beings compared, [[books:sb:2:7:24#purport|SB 2.7.24]]
@@ -65,11 +65,11 @@
   * of Rāma toward ocean, **[[books:sb:9:10:4#translation|SB 9.10.4]]**, **[[books:sb:9:10:13#translation|SB 9.10.13]]**
   * of Rāvaṇa toward Rāma, **[[books:sb:9:10:21#translation|SB 9.10.21]]**
   * of Satī at Dakṣa, **[[books:sb:4:4:9#translation|SB 4.4.9]]**
-  * of Satī at Śiva, **[[books:sb:4:4:2-3#translation|SB 4.4.2-3]]**
+  * of Satī at Śiva, **[[books:sb:4:4:2#translation|SB 4.4.2-3]]**
   * of Sītā condemned Rāvaṇa, **[[books:sb:9:10:20#translation|SB 9.10.20]]**
   * of Vasudeva & Devakī at Kaṁsa, **[[books:sb:10:4:25#translation|SB 10.4.25]]**
-  * of Śiva on Satī’s death, **[[books:sb:4:5:1-2#translation|SB 4.5.1-2]]**
-  * of Śiva, [[books:sb:3:14:34-35#purport|SB 3.14.34-35]]
+  * of Śiva on Satī’s death, **[[books:sb:4:5:1#translation|SB 4.5.1-2]]**
+  * of Śiva, [[books:sb:3:14:34#purport|SB 3.14.34-35]]
   * personified in Vīrabhadra, **[[books:sb:4:5:5#translation|SB 4.5.5]]**
   * proper use of, [[books:sb:4:4:10#purport|SB 4.4.10]]
   * renunciation of, **[[books:sb:7:15:22#translation|SB 7.15.22]]**
