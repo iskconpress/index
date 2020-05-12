@@ -29,7 +29,7 @@
   * artist & Lord, [[books:sb:2:10:49-50#purport|SB 2.10.49-50]]
   * ass & sense gratifier, **[[books:sb:5:13:18#translation|SB 5.13.18]]**
   * ass or cow & materialist, [[books:sb:4:28:24#purport|SB 4.28.24]]
-  * astronauts & child playing, [[books:sb:2:5:41#purport|SB 2.5.41]]
+  * astronauts & child playing, [[books:sb:2:5:40-41#purport|SB 2.5.41]]
   * astronauts & demigod worshipers, [[books:sb:4:9:10#purport|SB 4.9.10]]
   * atmospheric conditions & material energies, **[[books:sb:4:31:17#translation|SB 4.31.17]]**
   * attachment and envy & woman’s breasts, [[books:sb:4:25:24#purport|SB 4.25.24]]
@@ -114,7 +114,7 @@
   * breaking pot & soul merging, [[books:sb:6:10:11#purport|SB 6.10.11]]
   * bubbles & material dreams, [[books:sb:2:1:4#purport|SB 2.1.4]]
   * building constructor and Lord, [[books:sb:4:1:26-27#purport|SB 4.1.26-27]]
-  * bullfight & Hiraṇyākṣa-Varāha battle, **[[books:sb:3:18:19-20#translation|SB 3.18.19]]**
+  * bullfight & Hiraṇyākṣa-Varāha battle, **[[books:sb:3:18:19#translation|SB 3.18.19-20]]**
   * bulls & planets, **[[books:sb:5:23:3#translation|SB 5.23.3]]**
   * bulls & stars, **[[books:sb:5:23:3#translation|SB 5.23.3]]**
   * bulls circling & planets orbiting, **[[books:sb:4:9:20-21#translation|SB 4.9.20-21]]**, **[[books:sb:4:12:39#translation|SB 4.12.39]]**
@@ -278,7 +278,7 @@
   * dreaming & transmigration, **[[books:sb:10:1:41#translation|SB 10.1.41]]**, N100-101
   * dreaming & transmigration, [[books:sb:3:33:26#purport|SB 3.33.26]]
   * dreams & creations, **[[books:sb:2:1:39#translation|SB 2.1.39]]**, [[books:sb:2:1:39#purport|SB 2.1.39]]
-  * dreams & material life, [[books:sb:6:15:5#purport|SB 6.15.5]], **[[books:sb:6:15:21#translation|SB 6.15.21-24]]**, **[[books:sb:6:17:30#translation|SB 6.17.30]]**
+  * dreams & material life, [[books:sb:6:15:5#purport|SB 6.15.5]], **[[books:sb:6:15:21-23#translation|SB 6.15.21-24]]**, **[[books:sb:6:17:30#translation|SB 6.17.30]]**
   * dress & body, [[books:sb:10:1:39#purport|SB 10.1.39]]
   * dress & body, [[books:sb:4:16:19#purport|SB 4.16.19]]
   * dress & material body, [[books:sb:3:31:41#purport|SB 3.31.41]]
@@ -726,7 +726,7 @@
   * powerhouse & Lord, [[books:sb:2:10:16#purport|SB 2.10.16]]
   * prison & material world, [[books:sb:1:2:23#purport|SB 1.2.23]]
   * prison & material world, [[books:sb:3:7:2#purport|SB 3.7.2]], [[books:sb:3:15:33#purport|SB 3.15.33]]
-  * prison house & material world, [[books:sb:2:7:50#purport|SB 2.7.50]], [[books:sb:2:10:40#purport|SB 2.10.40]]
+  * prison house & material world, [[books:sb:2:7:50#purport|SB 2.7.50]], [[books:sb:2:10:37-40#purport|SB 2.10.40]]
   * prison life & family life, [[books:sb:3:30:8#purport|SB 3.30.8]]
   * prison shackles & gravity, [[books:sb:1:11:35#purport|SB 1.11.35]]
   * prison trustees & demigods, [[books:sb:3:5:51#purport|SB 3.5.51]]
@@ -734,8 +734,8 @@
   * Prācīnabarhiṣat story made of, **[[books:sb:4:29:1#translation|SB 4.29.1]]**
   * puppeteer & Lord, **[[books:sb:5:18:26#translation|SB 5.18.26]]**
   * Purañjana & living entity, **[[books:sb:4:29:2#translation|SB 4.29.2]]**
-  * Purañjana & Prācīnabarhiṣat, **SB 4.25.9-29.85**
-  * Purañjana & Prācīnabarhiṣat, benedictions for hearing, **[[books:sb:4:29:71-85#translation|SB 4.29.71-85]]**
+  * Purañjana & Prācīnabarhiṣat, **[[books:sb:4:25:9|SB 4.25.9]]-[[books:sb:4:29:85|29.85]]**
+  * Purañjana & Prācīnabarhiṣat, benedictions for hearing, **[[books:sb:4:29:71#translation|SB 4.29.71]]-[[books:sb:4:29:85|85]]**
   * Purañjana story as, **[[books:sb:4:28:65#translation|SB 4.28.65]]**
   * Purañjanī & intelligence, **[[books:sb:4:29:17#translation|SB 4.29.17]]**
   * purifying gold & purifying mind, [[books:sb:3:28:10#purport|SB 3.28.10]]
@@ -793,7 +793,7 @@
   * sensing an aroma & knowing Kṛṣṇa, **[[books:sb:3:29:20#translation|SB 3.29.20]]**
   * serpent & fool, [[books:sb:4:26:22#purport|SB 4.26.22]]
   * serpent & Hiraṇyākṣa, **[[books:sb:3:18:24#translation|SB 3.18.24]]**
-  * serpent & life air, **[[books:sb:4:25:21#translation|SB 4.25.21]]**, [[books:sb:4:27:15-17#purport|SB 4.27.15-17]], [[books:sb:4:28:2#purport|SB 4.28.2]], [[books:sb:4:28:13-15#purport|SB 4.28.13-15]], **[[books:sb:4:29:6#translation|SB 4.29.6]]**
+  * serpent & life air, **[[books:sb:4:25:21#translation|SB 4.25.21]]**, [[books:sb:4:27:15#purport|SB 4.27.15-17]], [[books:sb:4:28:2#purport|SB 4.28.2]], [[books:sb:4:28:13#purport|SB 4.28.13-15]], **[[books:sb:4:29:6#translation|SB 4.29.6]]**
   * serpents & arms, [[books:sb:4:25:42#purport|SB 4.25.42]]
   * serpents & enemies, **[[books:sb:5:14:21#translation|SB 5.14.21]]**
   * serpents & negligent persons, **[[books:sb:3:16:10#translation|SB 3.16.10]]**
@@ -833,7 +833,7 @@
   * social body & Lord, [[books:sb:2:9:36#purport|SB 2.9.36]]
   * soldier/commander & mind, **[[books:sb:4:26:1-3#translation|SB 4.26.1-3]]**, [[books:sb:4:26:1-3#purport|SB 4.26.1-3]], **[[books:sb:4:29:18-20#translation|SB 4.29.18-20]]**
   * soldiers & devotees, [[books:sb:2:8:21#purport|SB 2.8.21]]
-  * soldiers & disease, **[[books:sb:4:28:1-2#translation|SB 4.28.1-2]]**, **[[books:sb:4:28:4#translation|SB 4.28.4]]**
+  * soldiers & disease, **[[books:sb:4:28:1#translation|SB 4.28.1-2]]**, **[[books:sb:4:28:4#translation|SB 4.28.4]]**
   * soldiers/commanders & senses, **[[books:sb:4:26:1-3#translation|SB 4.26.1-3]]**, [[books:sb:4:26:1-3#purport|SB 4.26.1-3]], **[[books:sb:4:29:18-20#translation|SB 4.29.18-20]]**
   * sons & fallen souls, [[books:sb:4:22:42#purport|SB 4.22.42]]
   * sons (useless) & urine, [[books:sb:6:11:4#purport|SB 6.11.4]]
@@ -871,15 +871,14 @@
   * sugar candy & Lord’s speeches, [[books:sb:3:1:9#purport|SB 3.1.9]]
   * summary of, in ‘‘Forest of Material Enjoyment,’’, [[books:sb:5:14:46#purport|SB 5.14.46]]
   * summer and winter & pleasure and pain, **[[books:sb:5:5:10-13#translation|SB 5.5.10-13]]**
-  * sun & //varṇāśrama// system, [[books:sb:3:21:54#purport|SB 3.21.54]]
   * sun & advent of Lord, **[[books:sb:8:6:1#translation|SB 8.6.1]]**
-  * sun & demigods, [[books:sb:2:10:8-9#purport|SB 2.10.8-9]]
+  * sun & demigods, [[books:sb:2:10:8#purport|SB 2.10.8-9]]
   * sun & devotional service, **[[books:sb:6:1:15#translation|SB 6.1.15]]**
   * sun & Goloka Vṛndāvana, [[books:sb:2:4:14#purport|SB 2.4.14]]
   * sun & Indra, **[[books:sb:8:10:25#translation|SB 8.10.25]]**, **[[books:sb:8:11:26#translation|SB 8.11.26]]**
   * sun & Kṛṣṇa, [[books:sb:1:7:23#purport|SB 1.7.23]], [[books:sb:1:8:6#purport|SB 1.8.6]], [[books:sb:1:8:15#purport|SB 1.8.15]], [[books:sb:1:8:29#purport|SB 1.8.29]], [[books:sb:1:8:32#purport|SB 1.8.32]], [[books:sb:1:9:21#purport|SB 1.9.21]], [[books:sb:1:9:31#purport|SB 1.9.31]], [[books:sb:1:10:26#purport|SB 1.10.26]], [[books:sb:1:11:9#purport|SB 1.11.9]], [[books:sb:1:11:10#purport|SB 1.11.10]]
   * sun & Lord, [[books:sb:10:3:7-8#purport|SB 10.3.7-8]]
-  * sun & Lord, [[books:sb:2:8:3#purport|SB 2.8.3]], [[books:sb:2:9:3-4#purport|SB 2.9.3-4]], [[books:sb:2:9:27#purport|SB 2.9.27]], [[books:sb:2:9:34#purport|SB 2.9.34]], [[books:sb:2:9:36#purport|SB 2.9.36]], [[books:sb:2:10:33#purport|SB 2.10.33]]
+  * sun & Lord, [[books:sb:2:8:3#purport|SB 2.8.3]], [[books:sb:2:9:3#purport|SB 2.9.3-4]], [[books:sb:2:9:27#purport|SB 2.9.27]], [[books:sb:2:9:34#purport|SB 2.9.34]], [[books:sb:2:9:36#purport|SB 2.9.36]], [[books:sb:2:10:33#purport|SB 2.10.33]]
   * sun & Lord, [[books:sb:3:1:44#purport|SB 3.1.44]], [[books:sb:3:2:7#purport|SB 3.2.7]], [[books:sb:3:2:12#purport|SB 3.2.12]], [[books:sb:3:2:15#purport|SB 3.2.15]], [[books:sb:3:4:12#purport|SB 3.4.12]], [[books:sb:3:7:9#purport|SB 3.7.9]], [[books:sb:3:12:33#purport|SB 3.12.33]]
   * sun & Lord, [[books:sb:3:21:31#purport|SB 3.21.31]], [[books:sb:3:24:39#purport|SB 3.24.39]], [[books:sb:3:25:9#purport|SB 3.25.9]], [[books:sb:3:26:4#purport|SB 3.26.4]], **[[books:sb:3:29:5#translation|SB 3.29.5]]**
   * sun & Lord, [[books:sb:4:24:60#purport|SB 4.24.60]], [[books:sb:4:29:29#purport|SB 4.29.29]], [[books:sb:4:29:79#purport|SB 4.29.79]], [[books:sb:4:30:5#purport|SB 4.30.5]], [[books:sb:4:30:21#purport|SB 4.30.21]], **[[books:sb:4:31:15#translation|SB 4.31.15]]**
@@ -888,10 +887,11 @@
   * sun & Lord, [[books:sb:8:1:11#purport|SB 8.1.11]], [[books:sb:8:3:5#purport|SB 8.3.5]], [[books:sb:8:3:10#purport|SB 8.3.10]], [[books:sb:8:3:15#purport|SB 8.3.15]], **[[books:sb:8:3:22-24#translation|SB 8.3.22-24]]**, [[books:sb:8:17:9#purport|SB 8.17.9]]
   * sun & Nārada Muni, **[[books:sb:4:31:5#translation|SB 4.31.5]]**
   * sun & powerful beings, [[books:sb:3:12:31#purport|SB 3.12.31]]
-  * sun & Pṛthu, **[[books:sb:4:22:52-22#translation|SB 4.22.52-22]]**, **[[books:sb:4:22:56#translation|SB 4.22.56]]**
+  * sun & Pṛthu, **[[books:sb:4:22:52#translation|SB 4.22.52]]**, **[[books:sb:4:22:56#translation|SB 4.22.56]]**
   * sun & Supersoul, [[books:sb:3:15:45#purport|SB 3.15.45]]
   * sun & Supersoul, [[books:sb:3:22:4#purport|SB 3.22.4]]
   * sun & Supersoul, [[books:sb:5:20:5#purport|SB 5.20.5]]
+  * sun & //varṇāśrama// system, [[books:sb:3:21:52-54#purport|SB 3.21.54]]
   * sun and reflection & detachment, [[books:sb:3:27:1#purport|SB 3.27.1]]
   * sun rays & living entities, [[books:sb:3:7:9#purport|SB 3.7.9]]
   * sunlight & //brahmajyoti,// [[books:sb:3:26:3#purport|SB 3.26.3]]
@@ -910,7 +910,7 @@
   * sun’s effect on lilies and bees & Kṛṣṇa’s equal disposition, [[books:sb:6:17:23#purport|SB 6.17.23]]
   * sun’s illumination & spiritual planets, [[books:sb:2:6:18#purport|SB 2.6.18]]
   * sun’s purity & Lord, [[books:sb:9:9:5#purport|SB 9.9.5]]
-  * sun’s purity & Lord’s purity, [[books:sb:2:6:41#purport|SB 2.6.41]]
+  * sun’s purity & Lord’s purity, [[books:sb:2:6:40-41#purport|SB 2.6.41]]
   * sun’s rays & //brahmajyoti,// [[books:sb:2:4:14#purport|SB 2.4.14]]
   * sun’s rays & living entities, [[books:sb:1:11:10#purport|SB 1.11.10]]
   * sun’s rays & living entities, [[books:sb:3:25:17#purport|SB 3.25.17]]
@@ -932,9 +932,9 @@
   * tax collector & demigods, [[books:sb:4:21:34#purport|SB 4.21.34]]
   * tax collectors & demigods, [[books:sb:5:20:17#purport|SB 5.20.17]]
   * thunderbolts & Nṛsiṁhadeva’s nails and teeth, **[[books:sb:5:18:8#translation|SB 5.18.8]]**
-  * tiger & time, **[[books:sb:4:29:53-54#translation|SB 4.29.53-54]]**
+  * tiger & time, **[[books:sb:4:29:53#translation|SB 4.29.53-54]]**
   * tigress & wife, [[books:sb:5:14:3#purport|SB 5.14.3]]
-  * Time’s daughter & old age, **[[books:sb:4:27:19-30#translation|SB 4.27.19-30]]**
+  * Time’s daughter & old age, **[[books:sb:4:27:19#translation|SB 4.27.19-30]]**
   * tongue & prostitute, [[books:sb:2:3:20#purport|SB 2.3.20]]
   * touchstone & devotional service to Lord, [[books:sb:1:6:28#purport|SB 1.6.28]]
   * touchstone & Lord, **[[books:sb:5:19:3#translation|SB 5.19.3]]**
@@ -971,7 +971,7 @@
   * useless sons & urine, [[books:sb:6:11:4#purport|SB 6.11.4]]
 
 ===== V =====
-  * Vaidarbhī & disciple of spiritual master, **[[books:sb:4:28:47-50#translation|SB 4.28.47-50]]**, [[books:sb:4:28:65#purport|SB 4.28.65]]
+  * Vaidarbhī & disciple of spiritual master, **[[books:sb:4:28:47#translation|SB 4.28.47-50]]**, [[books:sb:4:28:65#purport|SB 4.28.65]]
   * //vānaprastha// & //nirjana-bhajana,// [[books:sb:4:28:34#purport|SB 4.28.34]]
   * Vedic law & bull’s rope, **[[books:sb:3:15:8#translation|SB 3.15.8]]**
   * vultures & man-made gods, **[[books:sb:5:14:29#translation|SB 5.14.29]]**
