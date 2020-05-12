@@ -1,5 +1,7 @@
 ====== Analogies ======
 
+~~TOC~~
+
 ===== A =====
   * actor & Lord, [[books:sb:5:18:26#purport|SB 5.18.26]]
   * aging & transmigration, [[books:sb:4:29:75#purport|SB 4.29.75]]
@@ -954,8 +956,7 @@
   * wife & body, [[books:sb:4:28:17#purport|SB 4.28.17]]
   * wife & living entities, **[[books:sb:5:18:26#translation|SB 5.18.26]]**
   * will-o’-the-wisp & material illusion, [[books:sb:2:3:11#purport|SB 2.3.11]]
-  * wind & Lord, **[[books:sb:2:10:43#translation|SB 2.10.43]]**
-  * wind & Lord, [[books:sb:4:24:65#purport|SB 4.24.65]]
+  * wind & Lord, **[[books:sb:2:10:43#translation|SB 2.10.43]]**, [[books:sb:4:24:65#purport|SB 4.24.65]]
   * wind & Lord’s power, **[[books:sb:1:11:34#translation|SB 1.11.34]]**
   * wind & mind, [[books:sb:4:29:11#purport|SB 4.29.11]]
   * wind & time, **[[books:sb:3:30:1#translation|SB 3.30.1]]**
