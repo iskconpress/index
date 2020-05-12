@@ -22,8 +22,8 @@
   * Buddha came to stop, [[books:sb:4:26:9#purport|SB 4.26.9]], [[books:sb:4:27:11#purport|SB 4.27.11]]
   * Buddha stopped, [[books:sb:4:19:36#purport|SB 4.19.36]], [[books:sb:10:1:4#purport|SB 10.1.4]]
   * Buddha’s opposition to, [[books:sb:1:3:24#purport|SB 1.3.24]], [[books:sb:1:5:15#purport|SB 1.5.15]]
-  * by Prācīnabarhiṣat, **[[books:sb:4:25:7-8#translation|SB 4.25.7-8]]**, **[[books:sb:4:29:49#translation|SB 4.29.49]]**
-  * by Purañjana, **[[books:sb:4:26:5#translation|SB 4.26.5]]**, **[[books:sb:4:26:9-10#translation|SB 4.26.9-10]]**
+  * by Prācīnabarhiṣat, **[[books:sb:4:25:7#translation|SB 4.25.7-8]]**, **[[books:sb:4:29:49#translation|SB 4.29.49]]**
+  * by Purañjana, **[[books:sb:4:26:5#translation|SB 4.26.5]]**, **[[books:sb:4:26:9#translation|SB 4.26.9-10]]**
   * by sectarian religionists, [[books:sb:8:8:21#purport|SB 8.8.21]]
   * calamities caused by, [[books:sb:1:7:37#purport|SB 1.7.37]]
   * chanting counteracts reactions of, **[[books:sb:6:2:9-10#translation|SB 6.2.9-10]]**
@@ -34,16 +34,16 @@
   * detachment from, **[[books:sb:4:26:9#translation|SB 4.26.9]]**
   * devotee opposes, [[books:sb:4:22:24#purport|SB 4.22.24]]
   * devotees shun, [[books:sb:8:8:21#purport|SB 8.8.21]]
-  * effects of, [[books:sb:6:2:6#purport|SB 6.2.6]]
-  * for godless food production, [[books:sb:4:18:10#purport|SB 4.18.10]]
+  * effects of, [[books:sb:6:2:5-6#purport|SB 6.2.6]]
+  * for godless food production, [[books:sb:4:18:9-10#purport|SB 4.18.10]]
   * God’s law on, [[books:sb:1:17:10-11#purport|SB 1.17.10-11]]
   * Hare Kṛṣṇa movement forbids, [[books:sb:7:15:11#purport|SB 7.15.11]]
   * hunting, [[books:sb:4:26:4#purport|SB 4.26.4]], **[[books:sb:4:26:6#translation|SB 4.26.6]]**, **[[books:sb:4:26:9#translation|SB 4.26.9]]**, [[books:sb:4:27:12#purport|SB 4.27.12]]
-  * in Kali-yuga, [[books:sb:1:16:5#purport|SB 1.16.5]], [[books:sb:1:16:18#purport|SB 1.16.18]], [[books:sb:1:16:20#purport|SB 1.16.20]], [[books:sb:1:17:1#purport|SB 1.17.1]], [[books:sb:1:17:3#purport|SB 1.17.3]], [[books:sb:1:17:5-6#purport|SB 1.17.5-6]], [[books:sb:1:17:8#purport|SB 1.17.8]], [[books:sb:4:19:36#purport|SB 4.19.36]], [[books:sb:8:6:12#purport|SB 8.6.12]]
+  * in Kali-yuga, [[books:sb:1:16:5#purport|SB 1.16.5]], [[books:sb:1:16:18#purport|SB 1.16.18]], [[books:sb:1:16:20#purport|SB 1.16.20]], [[books:sb:1:17:1#purport|SB 1.17.1]], [[books:sb:1:17:3#purport|SB 1.17.3]], [[books:sb:1:17:5#purport|SB 1.17.5-6]], [[books:sb:1:17:8#purport|SB 1.17.8]], [[books:sb:4:19:36#purport|SB 4.19.36]], [[books:sb:8:6:12#purport|SB 8.6.12]]
   * in Koran & //Vedas,// SB Intro 10-11
   * in name of religion, [[books:sb:1:5:15#purport|SB 1.5.15]]
   * in religion, [[books:sb:7:15:10#purport|SB 7.15.10]]
-  * in sacrifice, **[[books:sb:4:25:7-9#translation|SB 4.25.7-9]]**, [[books:sb:4:26:1-3#purport|SB 4.26.1-3]], [[books:sb:4:26:9#purport|SB 4.26.9]], **[[books:sb:4:27:11#translation|SB 4.27.11]]**
+  * in sacrifice, **[[books:sb:4:25:7#translation|SB 4.25.7-9]]**, [[books:sb:4:26:1-3#purport|SB 4.26.1-3]], [[books:sb:4:26:9#purport|SB 4.26.9]], **[[books:sb:4:27:11#translation|SB 4.27.11]]**
   * in society, [[books:sb:7:14:9#purport|SB 7.14.9]]
   * in Vedic sacrifices, [[books:sb:10:1:4#purport|SB 10.1.4]]
   * irreligious, [[books:sb:6:10:9#purport|SB 6.10.9]]
@@ -60,7 +60,7 @@
   * persons sharing responsibility for, [[books:sb:4:25:8#purport|SB 4.25.8]]
   * prohibited in Kṛṣṇa consciousness movement, [[books:sb:4:26:5#purport|SB 4.26.5]]
   * Prācīnabarhi advised against, [[books:sb:6:4:4#purport|SB 6.4.4]]
-  * punishment for, **[[books:sb:4:25:8#translation|SB 4.25.8]]**, [[books:sb:4:26:5#purport|SB 4.26.5]], [[books:sb:4:26:9-10#purport|SB 4.26.9-10]], [[books:sb:4:27:12#purport|SB 4.27.12]], **[[books:sb:4:28:26#translation|SB 4.28.26]]**
+  * punishment for, **[[books:sb:4:25:8#translation|SB 4.25.8]]**, [[books:sb:4:26:5#purport|SB 4.26.5]], [[books:sb:4:26:9#purport|SB 4.26.9-10]], [[books:sb:4:27:12#purport|SB 4.27.12]], **[[books:sb:4:28:26#translation|SB 4.28.26]]**
   * reaction for, [[books:sb:6:16:42#purport|SB 6.16.42]]
   * "religious," [[books:sb:4:26:1-3#purport|SB 4.26.1-3]], [[books:sb:4:27:11#purport|SB 4.27.11]], [[books:sb:4:28:26#purport|SB 4.28.26]]
   * //"sannyāsīs"// implicated in, [[books:sb:4:19:22#purport|SB 4.19.22]]
